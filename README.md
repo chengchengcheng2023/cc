@@ -1,2 +1,1 @@
-# cc
-Coding is coming.
+# Coding is coming.
